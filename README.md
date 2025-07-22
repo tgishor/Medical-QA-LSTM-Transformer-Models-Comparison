@@ -50,7 +50,7 @@ The LSTM approach achieved an **83% improvement** over the baseline, making it t
 ## Project Structure
 
 ```
-├── A3_2_forcollab_(1).ipynb    # Main analysis notebook
+├── medical-qa-lstm-transformer-comparison-notebook.ipynb   # Main analysis notebook
 ├── data/
 │   ├── training.csv            # Training dataset
 │   ├── dev_test.csv           # Validation dataset
@@ -68,7 +68,7 @@ pip install tensorflow transformers scikit-learn pandas numpy matplotlib jupyter
 ### Running the Project
 1. Clone this repository
 2. Install dependencies
-3. Open `A3_2_forcollab_(1).ipynb` in Jupyter
+3. Open `medical-qa-lstm-transformer-comparison-notebook.ipynb` in Jupyter
 4. Run cells sequentially to reproduce results
 
 ## Technical Approach
