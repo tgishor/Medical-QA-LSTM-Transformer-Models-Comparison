@@ -123,8 +123,8 @@ Working on this project reinforced several important principles:
 
 Feel free to reach out if you're interested in healthcare AI or have questions about this project. I'm always excited to discuss applications of ML in medical settings.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/gishor-thavakumar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/tgishor)
 
 ---
 
