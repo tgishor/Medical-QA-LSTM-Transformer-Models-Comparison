@@ -1,4 +1,4 @@
-# BioASQ Medical Question Answering - Neural Network Comparison Study - WEB published
+# BioASQ Medical Question Answering - Neural Network Comparison Study
 
 ## Tech Stack
 
